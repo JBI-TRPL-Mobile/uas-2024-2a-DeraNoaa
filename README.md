@@ -20,6 +20,8 @@ Note : Assalamualaikum Bapak, Mohon maaf github saya tidak bisa melakukan push m
 4. ![Screenshot (1419)](https://github.com/user-attachments/assets/cd4c6bd6-af95-44e5-836b-46d39177857d)
 5. ![Screenshot (1420)](https://github.com/user-attachments/assets/550c3d58-da80-49a3-9932-38caaddf866a)
 
+Commit Message Page : ![image](https://github.com/user-attachments/assets/5735de42-73db-4a2e-b1f5-2e1aee3ba868)
+
 
 
 
