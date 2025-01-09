@@ -5,6 +5,9 @@ NIM : 362358302147
 Note : Assalamualaikum Bapak, Mohon maaf github saya tidak bisa melakukan push melalui vscode, dengan mendapat pesan eror sebagai berikut dan sudah terjadi sejak awal semester 2 :
 ![Screenshot (1417)](https://github.com/user-attachments/assets/cda95d12-6cac-4254-8a14-5f68a15c4d97)
 
+![image](https://github.com/user-attachments/assets/67b83cfd-8d29-41b9-bf9f-10daf496d402)
+
+
 
 
 ## Getting Started
