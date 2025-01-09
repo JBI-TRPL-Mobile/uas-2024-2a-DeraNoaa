@@ -139,6 +139,24 @@ class DashboardScreen extends StatelessWidget {
             label: "",
           ),
         ],
+         onTap: (index) {
+    switch (index) {
+      case 0:
+        // Aksi untuk Home
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => const DashboardScreen()),
+        );
+        break;
+      case 1:
+        // Aksi untuk Message
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => MessagesPage()),
+        );
+        break;
+    
+    } },
       ),
     );
   }
